@@ -1,0 +1,13 @@
+/build/
+/config/
+/dist/
+/*.js
+/test/unit/coverage/
+/bin/
+/node_modules/
+/static/
+*.js
+*.png
+*.eot
+*.ttf
+*.woff

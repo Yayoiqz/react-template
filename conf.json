@@ -1,0 +1,13 @@
+{
+  "server": {
+    "main": "http://XXX:60333"
+  },
+  "mongo": {
+    "main": {
+      "dburl": "XXXX/",
+      "dbname": "",
+      "username": "admin",
+      "password": "admin"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+    "extends":"stylelint-config-standard",
+    'defaultSeverity':'warning',
+    'rules':{
+        'indentation':2,
+        'font-family-no-missing-generic-family-keyword':null,
+        'no-descending-specificity':null,
+        'unit-no-unknown':true,
+        'no-duplicate-selectors':true,
+        'rule-empty-line-before':'never',
+        'color-hex-case':'lower'
+    }
+}
